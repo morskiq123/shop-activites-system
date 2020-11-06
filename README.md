@@ -1,6 +1,10 @@
 # shop-activites-system
 This repo contains my first Java program - a coursework for OOP programming. Below is the configuration for the program.
 
+
+FEEDBACK ON COURSEWORK FROM LECTURER:
+Well done. Most of the functionalities have been covered very well. The OO concepts and features have been used in the implementation part to a good extent, but abstraction should have been used more than this in the design and implementation part. Enum data types must be included in the class diagram. 
+
 TASK
 
 You are to develop a system in Java for a Computer Accessories Shop (CAS) to help the business to handle many of the shop’s activities in an easy and practical manner.
@@ -30,3 +34,4 @@ by → Filter class
 NOT WORKING PROPERLY:
   • Products with a same barcode must not be added more than once. → buggy filtration for shopping
 basket
+
