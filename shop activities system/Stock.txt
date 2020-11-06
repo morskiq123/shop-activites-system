@@ -1,0 +1,16 @@
+445511, mouse, GAMING, N/Ab, N/Ad, WIRELESS, 993, 555.555, 55.444, 55
+124566, mouse, STANDARD, Advent, grey, WIRED, 10, 2.5, 4.99, 2
+124455, keyboard, STANDARD, Advent, white, WIRED, 9, 3.5, 5.99, UK
+237799, mouse, STANDARD, Logitech, grey, WIRELESS, 8, 7.0, 8.0, 2
+234555, keyboard, STANDARD, Apple, white, WIRELESS, 8, 75.5, 85.5, US
+112233, mouse, GAMING, Logitech, black, WIRELESS, 8, 7.5, 9.5, 3
+238800, keyboard, INTERNET, Microsoft, black, WIRED, 8, 26.5, 30.0, US
+236677, mouse, STANDARD, Asus, blue, WIRELESS, 6, 10.0, 16.99, 5
+235066, keyboard, FLEXIBLE, Microsoft, black, WIRELESS, 5, 45.5, 60.0, UK
+221101, mouse, STANDARD, Logitech, black, WIRED, 3, 3.0, 6.99, 3
+223044, mouse, GAMING, Anker, blue, WIRED, 3, 16.0, 18.5, 10
+123456, keyboard, GAMING, Corsair, black, WIRED, 2, 30.0, 39.99, UK
+125567, keyboard, INTERNET, Logitech, black, WIRELESS, 1, 25.99, 30.0, US
+221122, mouse, GAMING, Razer, black, WIRED, 1, 28.0, 40.99, 7
+237700, mouse, GAMING, Anker, black, WIRED, 1, 8.0, 11.99, 7
+237788, keyboard, STANDARD, Logitech, grey, WIRED, 0, 6.5, 8.99, UK
